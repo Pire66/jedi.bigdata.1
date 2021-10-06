@@ -344,5 +344,12 @@ Currently **officially** using Airflow:
 * [Chat](https://gitter.im/apache/incubator-airflow)
 * [Apache Airflow Incubation Status](http://incubator.apache.org/projects/airflow.html)
 * [More](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Links)
+<<<<<<< HEAD
 >>>>>>> v-1-8-stable/v1-8-stable
+<<<<<<< HEAD
 >>>>>>> 99e74e31... Add airflow
+=======
+=======
+#
+>>>>>>> 2302dbb5... WIP: Testing working with git
+>>>>>>> d274188a... WIP: Testing working with git
