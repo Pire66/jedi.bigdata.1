@@ -1,6 +1,7 @@
 ﻿# команды для выполнения домашнего задания#
 # frog репозитория Pire66 / jedi.bigdata.1 делаем на гитхабе
 #
+<<<<<<< HEAD
 git clone git@github.com:Pire66/jedi.bigdata.1.git ipopova
 # переходим в папку с репозиторием
 cd ~/ipopova
@@ -16,7 +17,6 @@ git merge  v-1-8-stable/v1-8-stable --allow-unrelated-histories
 # все файлы из удаленной ветки извлечены в рабочий каталог 
 # делаем комит с этими файлами  "Add airflow"
 git add README.md .gitignore
-#git add *
 git commit -am "Add airflow"
 # добавляем в свой проект ветку из удаленного репозитория
 git checkout -b airflow v-1-8-stable/v1-8-stable
@@ -58,7 +58,6 @@ git cherry-pick 0411bdc7d180babcd4694bef07e81b979f9a687c
 git cherry-pick 4e370ffc9ab579aa75de0fa8704c96683b9b963e
 git cherry-pick be5e4362522c7110b49e6c64eee2b7a0b1ee4726
 git cherry-pick 99e74e317a11b3659bf27d01dc82d357d4b50024
-#  отправляю все в свою удаленную репу
 git checkout main
 git push
 git checkout fix
