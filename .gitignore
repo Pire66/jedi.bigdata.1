@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 .idea/*
 *.bkp
 *.egg-info
@@ -31,9 +29,6 @@ rat-results.txt
 /.eggs/
 /.tox/
 venv
-=======
-=======
->>>>>>> 99e74e31... Add airflow
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -163,10 +158,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
->>>>>>> be5e4362... Initial commit
-=======
-=======
 .idea/*
 *.bkp
 *.egg-info
@@ -198,5 +189,3 @@ rat-results.txt
 /.eggs/
 /.tox/
 venv
->>>>>>> v-1-8-stable/v1-8-stable
->>>>>>> 99e74e31... Add airflow
