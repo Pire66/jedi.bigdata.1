@@ -1,4 +1,34 @@
-<<<<<<< HEAD
+.idea/*
+*.bkp
+*.egg-info
+*.pyc
+.DS_Store
+.ipynb*
+.coverage
+.python-version
+airflow/git_version
+airflow/www/static/coverage/
+airflow.db
+airflow.cfg
+airflow_login.py
+build
+cover
+dbinit.py
+docs/_*
+dist
+env
+initdb.py
+logs
+MANIFEST
+secrets.py
+sftp-config.json
+unittests.cfg
+error.log
+unittests.db
+rat-results.txt
+/.eggs/
+/.tox/
+venv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,7 +158,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-=======
 .idea/*
 *.bkp
 *.egg-info
@@ -160,4 +189,3 @@ rat-results.txt
 /.eggs/
 /.tox/
 venv
->>>>>>> v-1-8-stable/v1-8-stable

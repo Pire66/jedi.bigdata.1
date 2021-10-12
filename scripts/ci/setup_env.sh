@@ -110,6 +110,7 @@ if $ONLY_DOWNLOAD; then
 fi
 
 echo "Extracting ${HADOOP_HOME}/hadoop.tar.gz into $HADOOP_HOME"
+=======
 tar zxf ${TRAVIS_CACHE}/${HADOOP_DISTRO}/hadoop.tar.gz --strip-components 1 -C $HADOOP_HOME
 
 if [ $? != 0 ]; then
